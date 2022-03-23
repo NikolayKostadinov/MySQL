@@ -9,4 +9,4 @@
 * Използване на процедури и функции
 * Създаване на базови Back-End архитектури
 
-![Certificate]()
+![Certificate](https://github.com/NikolayKostadinov/MySQL/blob/main/Certificates/MySQL%20-%20January%202022%20-%20Certificate.jpeg)
